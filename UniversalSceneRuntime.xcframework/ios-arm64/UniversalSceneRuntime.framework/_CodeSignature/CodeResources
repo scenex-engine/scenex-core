@@ -8,6 +8,18 @@
 		<data>
 		d160iEr5VtbCyAkV98pvgzapZCE=
 		</data>
+		<key>Highlightr_Highlightr.bundle/atom-one-dark.min.css</key>
+		<data>
+		8+tOX+2py9YkLM9EygZOKXm11xk=
+		</data>
+		<key>Highlightr_Highlightr.bundle/atom-one-light.min.css</key>
+		<data>
+		adGEpoK8rrorGAtDfcRDG8O+OKo=
+		</data>
+		<key>Highlightr_Highlightr.bundle/highlight.min.js</key>
+		<data>
+		V++ZgtkP1rVA+PTaT4JkOn4Ttjc=
+		</data>
 		<key>Info.plist</key>
 		<data>
 		ro01sZ8zOsyjWpV/D1N6NE3S0yw=
@@ -56,6 +68,27 @@
 			<key>hash2</key>
 			<data>
 			kibiw6RkRvF87obq2BHttgTgdHWZ/lAhSjadPaQzgpA=
+			</data>
+		</dict>
+		<key>Highlightr_Highlightr.bundle/atom-one-dark.min.css</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			akwTLZec/XAFvgYgVH1T5/369lhA2Efr22xzCNl1nHs=
+			</data>
+		</dict>
+		<key>Highlightr_Highlightr.bundle/atom-one-light.min.css</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			aw9uGjVU5OJyMYN70Vu2kZ1DDVc1slcJCS2XvuPCPKo=
+			</data>
+		</dict>
+		<key>Highlightr_Highlightr.bundle/highlight.min.js</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			vCLS2sGQuWZ7jevqGXk4hSVBHoVrhjqZdj1cL6wsdUI=
 			</data>
 		</dict>
 		<key>Modules/UniversalSceneRuntime.swiftmodule/arm64-apple-ios.abi.json</key>

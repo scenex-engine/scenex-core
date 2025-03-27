@@ -4,6 +4,18 @@
 <dict>
 	<key>files</key>
 	<dict>
+		<key>Resources/Highlightr_Highlightr.bundle/atom-one-dark.min.css</key>
+		<data>
+		8+tOX+2py9YkLM9EygZOKXm11xk=
+		</data>
+		<key>Resources/Highlightr_Highlightr.bundle/atom-one-light.min.css</key>
+		<data>
+		adGEpoK8rrorGAtDfcRDG8O+OKo=
+		</data>
+		<key>Resources/Highlightr_Highlightr.bundle/highlight.min.js</key>
+		<data>
+		V++ZgtkP1rVA+PTaT4JkOn4Ttjc=
+		</data>
 		<key>Resources/Info.plist</key>
 		<data>
 		P9UyaI/9JdxcuZOq/IEq6OQpTjw=
@@ -105,6 +117,27 @@
 			<key>hash2</key>
 			<data>
 			2bLLlekeyKoi99kJsKvzFvVMJds4hDqqmhj9MVf2M3I=
+			</data>
+		</dict>
+		<key>Resources/Highlightr_Highlightr.bundle/atom-one-dark.min.css</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			akwTLZec/XAFvgYgVH1T5/369lhA2Efr22xzCNl1nHs=
+			</data>
+		</dict>
+		<key>Resources/Highlightr_Highlightr.bundle/atom-one-light.min.css</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			aw9uGjVU5OJyMYN70Vu2kZ1DDVc1slcJCS2XvuPCPKo=
+			</data>
+		</dict>
+		<key>Resources/Highlightr_Highlightr.bundle/highlight.min.js</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			vCLS2sGQuWZ7jevqGXk4hSVBHoVrhjqZdj1cL6wsdUI=
 			</data>
 		</dict>
 		<key>Resources/Info.plist</key>
