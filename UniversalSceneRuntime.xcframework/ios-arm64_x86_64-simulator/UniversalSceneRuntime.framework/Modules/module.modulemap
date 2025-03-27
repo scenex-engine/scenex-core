@@ -1,6 +1,0 @@
-framework module UniversalSceneRuntime {
-  umbrella header "UniversalSceneRuntime.h"
-  export *
-
-  module * { export * }
-}
