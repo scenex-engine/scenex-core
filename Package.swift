@@ -14,8 +14,8 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "SceneXCore",
-            url: "https://github.com/scenex-engine/scenex-core/releases/download/v0.1.2/SceneXCore.xcframework.zip",
-            checksum: "44fb23c29914496cb87be53fe1f5377e54d409a32ec2a272456aebae237fc456"
+            url: "https://github.com/scenex-engine/scenex-core/releases/download/v0.1.3/SceneXCore.xcframework.zip",
+            checksum: "f893664085edbd10826fdef6d27d43f0c54856bc5cb5e277e0f5ca20269ebe9c"
         )
     ]
 )
